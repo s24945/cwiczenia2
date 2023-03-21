@@ -9,6 +9,7 @@ print(type(zmienna2),hex(id(zmienna2)))
 print(type(zmienna3),hex(id(zmienna3)))
 
 print("Po zmianie: ")
+
 zmienna3 = "Java 11"
 print(zmienna1 == zmienna2)
 print(zmienna2 == zmienna3)
